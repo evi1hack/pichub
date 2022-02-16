@@ -1,3 +1,3 @@
-# pic_hub
+# pic
 
-Markdown 临时图片库。
+Markdown test.
